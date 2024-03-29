@@ -1,0 +1,40 @@
+Name: 240308_120_square
+Date of creation: 2024-03-12
+Recordings:
+  09-57-37: ~
+  10-00-58: ~
+  10-02-08: ~
+  10-04-15: ~
+  10-06-17: ~
+Cameras:
+  - cam_1
+  - cam_2
+  - cam_3
+  - cam_4
+  - cam_5
+Entities:
+  - mouse
+Keypoints:
+  - nose
+  - lear
+  - rear
+  - tail
+Skeleton:
+  Joint 1:
+    Keypoints:
+      - nose
+      - lear
+    Length:
+      - 0
+  Joint 2:
+    Keypoints:
+      - nose
+      - rear
+    Length:
+      - 0
+  Joint 3:
+    Keypoints:
+      - nose
+      - tail
+    Length:
+      - 0
